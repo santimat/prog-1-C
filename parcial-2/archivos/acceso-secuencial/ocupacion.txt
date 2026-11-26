@@ -1,0 +1,3 @@
+Sexo-Edad-EstadoCivil-Estudia-Trabaja
+1-22-1-1-1
+2-15-1-0-1
